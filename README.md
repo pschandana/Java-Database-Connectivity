@@ -12,8 +12,10 @@ __Created a Table Employee_details and inserted data --> Performed these actions
 
 __Records inserted__
  
-(AB1001, AB1001, Hari, 0, 0, Admin)       
+(AB1001, AB1001, Hari, 0, 0, Admin) 
+
 (TA1002, TA1002, Prasath, 0, 0, Employee) 
+
 (RS1003, RS1003, Ganesh, 0, 0, Employee)  
 
 __This Repository performs given operations on Employee_details table:__
